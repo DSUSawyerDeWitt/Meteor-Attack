@@ -1,0 +1,11 @@
+12/17/24 - Tuesday
+ - sprites
+ - working with time
+ 12/18/24 - Wednesday
+ - collisions
+ - drawing other things
+ 12/19/24 - Thursday
+ - transform
+ - masks
+ 12/20/24 - Friday
+ - sound
